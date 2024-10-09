@@ -1,7 +1,7 @@
 # Algorithm Document
 
 1. Prompt user: 'What is your subscription package? (Green, Blue or purple)'
-    - Convert the input to upper
+    - Convert the input to lowercase
 
 
 2. While the package input is invalid:
